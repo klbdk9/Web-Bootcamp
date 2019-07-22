@@ -12,31 +12,14 @@ td {
     text-align: center;
 }
 
-.top {
-    border-top: none;
-    border-right: solid;
-    border-bottom: solid;
-    border-left: none;
+.vertical {
+    border-right: 1px solid black;
+    border-left:  1px solid black;;
 }
 
-.middle {
-    border-top: none;
-    border-right: solid;
-    border-bottom: solid;
-    border-left: none;
-}
 
-.bottom {
-    border-top: none;
-    border-right: solid;
-    border-bottom: none;
-    border-left: none;
+.horizontal{
+    border-top:  1px solid black;;
+    border-bottom:  1px solid black;;
 
-}
-
-.right {
-    border-top: none;
-    border-right: none;
-    border-bottom: solid;
-    border-left: none;
 }
